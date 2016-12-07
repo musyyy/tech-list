@@ -6,6 +6,13 @@ Personal list of tech links - Tutorials, Books, Blogs, Videos etc.
 :cyclone:	Interesting visions and beliefs to a subject  
 :computer: Learn with code examples
 
+# General
+
+## Programming
+
+### Talks
+[Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0&app=desktop) :cyclone:
+
 # Front-end
 
 ## Javascript in general
@@ -41,7 +48,7 @@ Lee Byron explains the vision behind GraphQL and how it was designed and used at
 ### Resources
 
 - [List of GraphQL & Relay Links](https://github.com/chentsulin/awesome-graphql)  
-Links of Specification, Community, Libraries, Tools, Services, Databases, Examples, Videos, Blogs, Posts and much more. 
+Links of Specification, Community, Libraries, Tools, Services, Databases, Examples, Videos, Blogs, Posts and much more.
 
 # Functional Programming
 
