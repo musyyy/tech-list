@@ -8,10 +8,11 @@ Personal list of tech links - Tutorials, Books, Blogs, Videos etc.
 
 # General
 
-## Programming
+## Software Development
 
 ### Talks
-[Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0&app=desktop) :cyclone:
+- [Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0&app=desktop) :cyclone:  
+Rich Hickey, the author of Clojure and designer of Datomic, is a software developer with over 20 years of experience in various domains.
 
 # Front-end
 
