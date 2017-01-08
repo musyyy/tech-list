@@ -11,8 +11,10 @@ Personal list of tech links - Tutorials, Books, Blogs, Videos etc.
 ## Software Development
 
 ### Talks
-- [Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0&app=desktop) :cyclone:  
+- [Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0) :cyclone:  
 Rich Hickey, the author of Clojure and designer of Datomic, is a software developer with over 20 years of experience in various domains.
+- [Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc) :cyclone:  
+"philosophical" talk
 
 # Front-end
 
