@@ -59,3 +59,5 @@ Links of Specification, Community, Libraries, Tools, Services, Databases, Exampl
 
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details) :foggy: :computer:  
 This is a book on the functional paradigm in general. We'll use the world's most popular functional programming language: JavaScript.
+- [Clojure for the brave and true](http://www.braveclojure.com/foreword/) :zap: :computer:  
+Learn the ultimate language Clojure and become a better programmer
